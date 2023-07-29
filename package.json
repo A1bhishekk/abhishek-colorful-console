@@ -1,0 +1,20 @@
+{
+  "name": "abhishek-colorful-console",
+  "version": "1.0.0",
+  "description": "A library to print colorful console logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A1bhishekk/abhishek-colorful-console.git"
+  },
+  "keywords": ["console", "colorful", "logs", "colorful-logs", "colorful-console"],
+  "author": "Abhishek Kumar <sahniak56@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/A1bhishekk/abhishek-colorful-console/issues"
+  },
+  "homepage": "https://github.com/A1bhishekk/abhishek-colorful-console#readme"
+}
